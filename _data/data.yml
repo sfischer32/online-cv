@@ -187,22 +187,26 @@ certifications:
           credentialname: PSPO I
           details: |
             Fundamental level of Scrum mastery, including the concepts of applying Scrum, and proven understanding of Scrum described in the Scrum Guide.
-        - name: Git learning
-          start: 2019
-          end:
+        - name: Microsoft Certified - Azure AI Fundamentals
+          start: 2022
+          end: 2022
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialid: 
+          credentialurl: https://www.credly.com/badges/45ecdab4-d2a7-4f42-bd48-6d99de404b50/public_url
+          credentialname: AI 900
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and 
+            artificial intelligence (AI) concepts and related Microsoft Azure services.
+        - name: Microsoft Certified - Azure Fundamentals
+          start: 2022
+          end: 2022
+          organization: Microsoft
+          credentialid: 
+          credentialurl: https://www.credly.com/badges/b0e713c3-16d5-42f0-963d-15f6e82578cc/public_url
+          credentialname: AZ 900
+          details: |
+            Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services 
+            and how those services are provided with Microsoft Azure.
 
 projects:
     title: Projects
