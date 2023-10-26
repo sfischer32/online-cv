@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dipl.-Ing. Sebastian Fischer
@@ -93,28 +93,51 @@ experiences:
           well as assumption of sales and cost responsibility and collaboration in operational and strategic corporate development.
 
           In addition, participation in the strategic positioning and the new brand identity of the company.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Head of Product Development Software & Operations 
+        time: 2019 - 2021 
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Takeover of the newly created management function for the development and operation of software (transfer of project work to the line).
+          Disciplinary management of 6 employees (project manager, software developer). Further development of digital products & services. Structure 
+          MachineLearning & Data Science as well as reporting of relevant data for all areas of the company.
+      - role: Senior Project Manager Digital Products & Services
+        time: 2019 - 2019
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Focusing on digital business development for digital products & services (business models, 
+          setting up external development partners, partner management, technology selection and evaluation, 
+          monitoring relevant digital trends) including development of digital products & services, 
+          product management, marketing and setting up operations.
+          Control of large software development projects in the mechanical engineering environment with the 
+          development of an IoT (Internet of Things) platform as well as a new and innovative remote control 
+          with a new operating concept including a new digital infrastructure for the new generation of HDD drilling rigs.
+          Technical and strategic development of a DevOps area (development & operations) for software development. 
+          Disciplinary management of 4 employees (project manager, software developer).
+      - role: Senior Project Manager GRUNDODRILL / GRUNDOPIT / Digital Products & Services
+        time: 2018 - 2019
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+        details: |
+          Renaming of the job title. Additionally responsible for the product management area “Digital Products & Services” 
+          including management of an employee for the product management area.
+      - role: Technical Product Manager GRUNDODRILL / GRUNDOPIT / Digital Products & Services | Innovationmanager 
+        time: 2016 - 2018
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+        details: |
+          Technical responsibility for the GRUNDODRILL & GRUNDOPIT product groups; Project manager for development and research 
+          projects for the product groups mentioned; Development of specifications and specifications with sales and product development; 
+          Visiting customers to collect requirements; Evaluation of market and competition analyses.
+          Participation in the development of the digital strategy for digital products and services; Development of digital products 
+          and services in the IoT environment (Internet of Things); Digital Business Development (strategic business area development 
+          of a digital platform) - development and development of product marketing, comparison of legal framework conditions, 
+          development of payment and order processes, development of service structure for digital products; Product Owner in a 
+          large IoT software development project; Knowledge of agile product development
+          Management of external partners, service providers and cooperation partners (external projects with teams of up to 20); 
+          Technical leadership of interdisciplinary development teams; Disciplinary management of employees (project managers); 
+          Program management (coordination of digital and machine-related projects); Responsible project budget amounting to several million euros.
+          
+          Further development of project management and project controlling as well as budgeting and planning processes;
+          
+          Authorized representative since March 2017
 
 certifications:
       title: Certifications
