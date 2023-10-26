@@ -77,7 +77,11 @@ education:
           Department of Construction, University of Siegen
           - Diploma in engineering (Dipl.-Ing.) with distinction (grade: 1.3)
           - Joining and connection technology & construction technology
-
+      - degree: University entrance qualification
+        university: Private High School Maria Queen, Lennestadt
+        time: 1994 - 2003
+        details: |
+          - University entrance qualification (grade: 2.3)   
 experiences:
     title: Experiences
     info:
@@ -113,13 +117,13 @@ experiences:
           with a new operating concept including a new digital infrastructure for the new generation of HDD drilling rigs.
           Technical and strategic development of a DevOps area (development & operations) for software development. 
           Disciplinary management of 4 employees (project manager, software developer).
-      - role: Senior Project Manager GRUNDODRILL / GRUNDOPIT / Digital Products & Services
+      - role: Senior Project Manager
         time: 2018 - 2019
         company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
         details: |
           Renaming of the job title. Additionally responsible for the product management area “Digital Products & Services” 
           including management of an employee for the product management area.
-      - role: Technical Product Manager GRUNDODRILL / GRUNDOPIT / Digital Products & Services | Innovationmanager 
+      - role: Technical Product Manager | Innovationmanager 
         time: 2016 - 2018
         company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
         details: |
@@ -139,7 +143,7 @@ experiences:
           
           Authorized representative since March 2017
 
-      - role: Taking over strategic innovation and project management from the CTO
+      - role: Taking over strategic innovation management from the CTO
         time: 2014 - 2016
         company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
         details: |
@@ -164,27 +168,25 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Professional Scrum Product Owner (PSPO I)
+          start: 2023
+          end: 2023
+          organization: scrum.org
+          credentialid: 1021753
+          credentialurl: https://www.scrum.org/certificates/1021753
+          credentialname: PSPO I
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Fundamental level of Professional Scrum Product Ownership, proving an intermediate understanding of the Scrum framework
+            and how to apply it to maximize the value delivered with a product. 
+        - name: Professional Scrum Master (PSM I)
+          start: 2023
+          end: 2023
+          organization: scrum.org
+          credentialid: 1012724
+          credentialurl: https://www.scrum.org/certificates/1012724
+          credentialname: PSPO I
+          details: |
+            Fundamental level of Scrum mastery, including the concepts of applying Scrum, and proven understanding of Scrum described in the Scrum Guide.
         - name: Git learning
           start: 2019
           end:
