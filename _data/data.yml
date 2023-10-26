@@ -134,10 +134,32 @@ experiences:
           Management of external partners, service providers and cooperation partners (external projects with teams of up to 20); 
           Technical leadership of interdisciplinary development teams; Disciplinary management of employees (project managers); 
           Program management (coordination of digital and machine-related projects); Responsible project budget amounting to several million euros.
-          
+
           Further development of project management and project controlling as well as budgeting and planning processes;
           
           Authorized representative since March 2017
+
+      - role: Taking over strategic innovation and project management from the CTO
+        time: 2014 - 2016
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+        details: |
+          additionally responsible for the area Strength calculations & simulations
+
+          Revision and restructuring of the project management process; Introduction of idea management; 
+          Introduction of a new project management software (IBS APQP); Development of project controlling; 
+          Introduction to the stage gate process
+      - role: Head of the strength calculations & simulations department
+        time: 2012 - 2014
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+        details: |
+          Overall responsibility for the above-mentioned area; In addition, management of complex development projects.
+          Familiarization with the topic of project and innovation management
+      - role: Engineer calculations & simulations / Project Engineer
+        time: 2008 - 2012
+        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+        details: |
+          Introduction and structure of FEM methodology; Design and calculation of components and assemblies as 
+          well as machine elements; Carrying out linear and non-linear FE analyzes
 
 certifications:
       title: Certifications
