@@ -4,11 +4,11 @@
 
 sidebar:
     position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sebastian Fischer
+    name: Dipl.-Ing. Sebastian Fischer
     tagline: Digital Evangelist
     avatar: Sebastian_Fischer.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -19,7 +19,7 @@ sidebar:
     citizenship: German
     #website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/sebastian-fischer32/
-    #xing: alandoe
+    xing: https://xing.to/sfischer32
     github: sfischer32
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -74,32 +74,25 @@ education:
         university: University of Siegen
         time: 2004 - 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Department of Construction, University of Siegen
+          - Diploma in engineering (Dipl.-Ing.) with distinction (grade: 1.3)
+          - Joining and connection technology & construction technology
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Head of Engineering and Manufacturing
+        time: 2021 - Present
+        company: colenio GmbH & Co. KG, Unkel
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Establishment and management of a new business unit with a focus on mechanical 
+          engineering and manufacturing/industry, electrical and SHK (plumbing, heating, air conditioning).
+          Sales and marketing activities, consulting and development of optimal target architectures 
+          and solution concepts for target customers, support of customers at C - level, establishment 
+          and expansion of a team of consultants, engineers and other employees for the business unit as 
+          well as assumption of sales and cost responsibility and collaboration in operational and strategic corporate development.
+
+          In addition, participation in the strategic positioning and the new brand identity of the company.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
