@@ -207,6 +207,60 @@ certifications:
           details: |
             Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services 
             and how those services are provided with Microsoft Azure.
+        - name: Crash Course IT-contracts
+          start: 2020
+          end: 2020
+          organization: Haufe Academy
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Fundamentals for professional IT-contracts.
+        - name: Digital Leadership
+          start: 2019
+          end: 2019
+          organization: VDI Wissensforum GmbH
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            How Leadership looks like in the digital age.
+        - name: Develop and implement digital business models
+          start: 2018
+          end: 2018
+          organization: VDI Wissensforum GmbH
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Fundamentals in develop and implement digital business models also using Business Model Canvas and Value Proposition Canvas methods.
+        - name: MS Project 2013
+          start: 2016
+          end: 2016
+          organization: Bechtle GmbH
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Fundamentals of Microsoft Project 2013 (Planning, Ressources, Capacity, etc.)
+        - name: Moderating and presenting for project managers
+          start: 2016
+          end: 2016
+          organization: Haufe GmbH
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Fundamentals in moderating and presenting techniques for project managers.
+        - name: Innovation Manager (IHK)
+          start: 2015
+          end: 2015
+          organization: IHK Frankfurt
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            12 days training in how to innovate.
 
 projects:
     title: Projects
