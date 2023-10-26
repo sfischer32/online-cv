@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -45,41 +45,34 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Playing music (Bass Guitar, Keyboard, Piano, Singing)
           link:
 
-        - item: Snowboarding
+        - item: Cycling
           link:
 
-        - item: Cooking
+        - item: Travelling
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      In my many years of professional experience in a medium-sized mechanical engineering company, 
+      I was able to hold a variety of different positions. Starting with a dual degree in mechanical engineering, 
+      after completing my studies I worked as a calculation engineer and expanded the topic of strength calculations and simulations. 
+      This was followed by further positions as innovation manager, technical product manager and senior project manager. 
+      In the role of Technical Product Manager and Senior Project Manager, I led extensive development programs. 
+      This also included large development projects in the area of software development. 
+      In particular, it was about the development of an IoT environment and the development of a digital platform. 
+      In this context, I have extensive experience in managing large specialist projects, both as an overall project manager, 
+      as a product owner and at times as a Scrum Master. My strengths lie in the areas of digital business, strategic planning 
+      as well as in the areas of IoT and data analytics.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Diploma in Mechanical Engineering
+        university: University of Siegen
+        time: 2004 - 2008
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
