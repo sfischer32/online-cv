@@ -334,23 +334,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Project- and Program Management
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Digital Business & Digital Strategy
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Agile Methods & Scrum
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: Office365 (Word, Powerpoint, Excel)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Internet of Things, Data Science, KI
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Azure Cloud Technologies
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
