@@ -10,37 +10,37 @@ sidebar:
     # Profile information
     name: Sebastian Fischer
     tagline: Digital Evangelist
-    avatar: assets/images/Sebastian_Fischer.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Sebastian_Fischer.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: sfischer32@web.de
+    phone: +49 151 28195XX
+    timezone: Germany/Berlin Timezone
+    citizenship: German
+    #website: blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/sebastian-fischer32/
+    #xing: alandoe
+    github: sfischer32
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: German
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Basic
 
     interests:
       title: Interests
