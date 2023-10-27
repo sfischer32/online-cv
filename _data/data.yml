@@ -311,24 +311,21 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Monetarisierung plattformbasierter Produkte und Services
+        link: https://www.vdma.org/viewer/-/v2article/render/77810045
+        authors: Fischer, Golz, Greven, Herr, Himstedt, Jandl, Schäfer, Weber
+        conference: VDMA, 2023
+    podcasts:
+      - title: A platform for drilling rigs is the cornerstone for predictive maintenance
+        link: https://iotusecase.com/use-cases/a-platform-for-drilling-rigs-is-the-cornerstone-for-predictive-maintenance/
+        authors: Fischer, Schreckenberg, Mickeleit
+        conference: iotusecase 2022
+      - title: EU Data Act, NIS2 Regulation and Cyber Resilience Act – new challenges for Industry 4.0
+        link: https://iotusecase.com/podcast/eu-data-act-nis2-regulation-and-cyber-resilience-act-new-challenges-for-industry-4-0/
+        authors: Fischer, Dethlefsen, Mickeleit
+        conference: iotusecase 2023
 
 skills:
     title: Skills &amp; Proficiency
