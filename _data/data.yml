@@ -59,12 +59,12 @@ career-profile:
     summary: |
       Proven engineering leader with an extensive background in spearheading innovative projects and 
       driving successful outcomes. Currently serving as the Director Digital Solutions at Viega GmbH & Co. KG, 
-	  leading the development of digital solutions, software development and operations as well as the global 
-   	  product security for smart and digital products.
-	  Previous roles at TRACTO-TECHNIK GmbH & Co. KG showcase a history of effective management in software development, 
+      leading the development of digital solutions, software development and operations as well as the global 
+      product security for smart and digital products.
+      Previous roles at TRACTO-TECHNIK GmbH & Co. KG showcase a history of effective management in software development, 
       digital product strategy, and project leadership. Recognized for strategic thinking, cross-functional 
       team management, and expertise in mechanical engineering and manufacturing as well as software development & operations
-	  in the IoT field.
+      in the IoT field.
 education:
     title: Education
     info:
@@ -88,42 +88,42 @@ experiences:
       company: Viega GmbH & Co. KG, Attendorn
       details: |
           tbd
-      - role: Head of Engineering and Manufacturing
-        time: 2021 - 2023
-        company: colenio GmbH & Co. KG, Unkel
-        details: |
+    - role: Head of Engineering and Manufacturing
+      time: 2021 - 2023
+      company: colenio GmbH & Co. KG, Unkel
+      details: |
           Dynamic and results-driven professional with a proven track record in establishing and managing new business units. 
           Specialized in mechanical engineering, manufacturing/industry, electrical, and SHK (plumbing, heating, air conditioning). 
           Adept at leading sales and marketing activities, providing strategic consulting, and developing optimal target architectures 
           and solution concepts. Experienced in supporting C-level customers, building and leading high-performing teams, and assuming 
           sales and cost responsibility. Instrumental in operational and strategic corporate development, with a focus on participating 
           in the strategic positioning and new brand identity initiatives.
-      - role: Head of Product Development Software & Operations 
-        time: 2019 - 2021 
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Head of Product Development Software & Operations 
+      time: 2019 - 2021 
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Experienced leader in software development and operations, specializing in the transfer of project work to the line. 
           Proven success in disciplinary management of teams, including 6 employees encompassing project managers and software developers. 
           Skilled in advancing digital products and services, with expertise in structuring Machine Learning & Data Science initiatives 
           and reporting relevant data across all company areas.
-      - role: Senior Project Manager Digital Products & Services
-        time: 2019 - 2019
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Senior Project Manager Digital Products & Services
+      time: 2019 - 2019
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Digital business development expert with a focus on products and services. Proven track record in establishing external partnerships, 
           technology evaluation, and staying updated on digital trends. Led end-to-end development of digital products, including IoT platforms. 
           Successfully managed large software projects in mechanical engineering. Innovated a remote control system and digital infrastructure for HDD drilling rigs. 
           Strategic development of DevOps area. Disciplinary manager of a team of 4.
-      - role: Senior Project Manager
-        time: 2018 - 2019
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Senior Project Manager
+      time: 2018 - 2019
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Renaming of the job title. Additionally responsible for the product management area “Digital Products & Services” 
           including management of an employee for the product management area.
-      - role: Technical Product Manager | Innovationmanager 
-        time: 2016 - 2018
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Technical Product Manager | Innovationmanager 
+      time: 2016 - 2018
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Experienced professional with technical leadership responsibilities for GRUNDODRILL & GRUNDOPIT product groups. 
           Proven track record as a project manager in the development and research of these product groups. Adept at developing 
           specifications in collaboration with sales and product development, collecting customer requirements through visits, and 
@@ -133,24 +133,24 @@ experiences:
           
           Authorized representative since March 2017
 
-      - role: Taking over strategic innovation management from the CTO
-        time: 2014 - 2016
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Taking over strategic innovation management from the CTO
+      time: 2014 - 2016
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           additionally responsible for the area Strength calculations & simulations
 
           Revamping and streamlining the project management process, implementing idea management, introducing a new project management 
           software (IBS APQP), refining project controlling practices, and incorporating the stage gate process.
-      - role: Head of the strength calculations & simulations department
-        time: 2012 - 2014
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Head of the strength calculations & simulations department
+      time: 2012 - 2014
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Overall responsibility for the above-mentioned area; In addition, management of complex development projects.
           Familiarization with the topic of project and innovation management
-      - role: Engineer calculations & simulations / Project Engineer
-        time: 2008 - 2012
-        company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
-        details: |
+    - role: Engineer calculations & simulations / Project Engineer
+      time: 2008 - 2012
+      company: TRACTO-TECHNIK GmbH & Co. KG, Lennestadt
+      details: |
           Introduction and structure of FEM methodology; Design and calculation of components and assemblies as 
           well as machine elements; Carrying out linear and non-linear FE analyzes
 
