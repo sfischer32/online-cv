@@ -58,11 +58,13 @@ career-profile:
     title: Career Profile
     summary: |
       Proven engineering leader with an extensive background in spearheading innovative projects and 
-      driving successful outcomes. Currently serving as the Head of Engineering and Manufacturing at 
-      colenio GmbH & Co. KG, leading the establishment and management of a new business unit. Previous 
-      roles at TRACTO-TECHNIK GmbH & Co. KG showcase a history of effective management in software development, 
+      driving successful outcomes. Currently serving as the Director Digital Solutions at Viega GmbH & Co. KG, 
+	  leading the development of digital solutions, software development and operations as well as the global 
+   	  product security for smart and digital products.
+	  Previous roles at TRACTO-TECHNIK GmbH & Co. KG showcase a history of effective management in software development, 
       digital product strategy, and project leadership. Recognized for strategic thinking, cross-functional 
-      team management, and expertise in mechanical engineering and manufacturing.
+      team management, and expertise in mechanical engineering and manufacturing as well as software development & operations
+	  in the IoT field.
 education:
     title: Education
     info:
@@ -81,8 +83,13 @@ education:
 experiences:
     title: Experiences
     info:
+    - role: Director Digital Solutions
+      time: 2024 - present
+      company: Viega GmbH & Co. KG, Attendorn
+      details: |
+          tbd
       - role: Head of Engineering and Manufacturing
-        time: 2021 - Present
+        time: 2021 - 2023
         company: colenio GmbH & Co. KG, Unkel
         details: |
           Dynamic and results-driven professional with a proven track record in establishing and managing new business units. 
