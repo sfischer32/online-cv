@@ -83,11 +83,25 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Director Digital Solutions
-      time: 2024 - present
+    - role: Head of R&D Building Digitalization
+      time: 2025 - present
       company: Viega GmbH & Co. KG, Attendorn
       details: |
-          tbd
+          Head of the research and development department for the "Building Digitalization" product area. 
+          Management of the Digital Solutions, Smart Components, and Valves groups. Global software and electronics 
+          development for all product areas, including lifecycle responsibility. 
+          Responsible for product security of all smart products.
+    - role: Director Digital Solutions
+      time: 2024 - 2025
+      company: Viega GmbH & Co. KG, Attendorn
+      details: |
+          Responsible for the development of existing and new business areas and the Digital Solutions division strategy. 
+          Interface management of internal and external partners. Establishment and maintenance of networks. Management of digital 
+          incubators and initiatives. Management of the Digital Solutions group. Responsible for product development and operation 
+          of digital solutions, including product security. 
+          Responsible as shareholder representative of Viega BIM GmbH for the participation in the start-up metiundo from Berlin.
+
+          Authorized representative since June 2024
     - role: Head of Engineering and Manufacturing
       time: 2021 - 2023
       company: colenio GmbH & Co. KG, Unkel
